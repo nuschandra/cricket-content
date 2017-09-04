@@ -3,3 +3,4 @@ bs4
 configparser
 https://codeload.github.com/sanpingz/mysql-connector/tar.gz/2.1.6
 lxml
+APScheduler

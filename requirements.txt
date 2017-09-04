@@ -1,4 +1,4 @@
 requests
 bs4
 configparser
-mysql-connector
+mysql-connector --allow-external mysql-connector

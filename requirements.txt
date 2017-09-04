@@ -1,4 +1,4 @@
 requests
 bs4
 configparser
-mysql-connector --allow-external mysql-connector
+https://codeload.github.com/sanpingz/mysql-connector/tar.gz/2.1.6
